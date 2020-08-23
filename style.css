@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+
+.container {
+  background-color: #f0f8ff;
+  border-radius: 25px;
+  border: 1px solid #ffefd5;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+li {
+  text-align: center;
+  list-style-type: none;
+}
