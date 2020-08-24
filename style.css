@@ -20,3 +20,13 @@ body {
   justify-content: space-around;
   font-family: 'Quicksand', sans-serif;
 }
+
+.vanilla {
+  color: #f3e5ab;
+  background-color: blue;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
